@@ -1,0 +1,1 @@
+add_library(ConfigReader STATIC ConfigReader.hpp ConfigReader.cpp)
